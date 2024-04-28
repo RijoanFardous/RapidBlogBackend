@@ -14,4 +14,12 @@
     </PackageReference>
     <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="7.0.0" />
   </ItemGroup>
+  <ItemGroup>
+    <None Remove="EF\" />
+    <None Remove="EF\Entities\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="EF\" />
+    <Folder Include="EF\Entities\" />
+  </ItemGroup>
 </Project>
