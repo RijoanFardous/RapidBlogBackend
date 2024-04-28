@@ -688,32 +688,33 @@
     ]
   },
   "packageFolders": {
-    "/Users/tanvir/.nuget/packages/": {}
+    "/Users/sabihakhairohi/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tanvir/Desktop/RapidBlogBackend/BusinessLayer/BusinessLayer.csproj",
+      "projectUniqueName": "/Users/sabihakhairohi/Projects/RapidBlogBackend/BusinessLayer/BusinessLayer.csproj",
       "projectName": "BusinessLayer",
-      "projectPath": "/Users/tanvir/Desktop/RapidBlogBackend/BusinessLayer/BusinessLayer.csproj",
-      "packagesPath": "/Users/tanvir/.nuget/packages/",
-      "outputPath": "/Users/tanvir/Desktop/RapidBlogBackend/BusinessLayer/obj/",
+      "projectPath": "/Users/sabihakhairohi/Projects/RapidBlogBackend/BusinessLayer/BusinessLayer.csproj",
+      "packagesPath": "/Users/sabihakhairohi/.nuget/packages/",
+      "outputPath": "/Users/sabihakhairohi/Projects/RapidBlogBackend/BusinessLayer/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/tanvir/.nuget/NuGet/NuGet.Config"
+        "/Users/sabihakhairohi/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/tanvir/Desktop/RapidBlogBackend/DataAccessLayer/DataAccessLayer.csproj": {
-              "projectPath": "/Users/tanvir/Desktop/RapidBlogBackend/DataAccessLayer/DataAccessLayer.csproj"
+            "/Users/sabihakhairohi/Projects/RapidBlogBackend/DataAccessLayer/DataAccessLayer.csproj": {
+              "projectPath": "/Users/sabihakhairohi/Projects/RapidBlogBackend/DataAccessLayer/DataAccessLayer.csproj"
             }
           }
         }

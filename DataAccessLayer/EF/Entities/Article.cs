@@ -30,12 +30,23 @@ namespace DataAccessLayer.EF.Entities
 
         public virtual User User { get; set; }
 
+        public virtual ICollection<Comment> Comments { get; set; }
+
+        public virtual ICollection<Like> Likes { get; set; }
+
+        public virtual ICollection<Bookmark> Bookmarks { get; set; }
+
         public Article()
         {
             Title = string.Empty;
             Content = string.Empty;
             Audience = string.Empty;
             User = new User();
+
+            Comments = new List<Comment>();
+            Bookmarks = new List<Bookmark>();
+            Likes = new List<Like>();
+
         }
 
     }
