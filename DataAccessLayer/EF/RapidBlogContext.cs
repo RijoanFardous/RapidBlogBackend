@@ -7,10 +7,10 @@ namespace DataAccessLayer.EF
 	{
         public RapidBlogContext(DbContextOptions<RapidBlogContext> options) : base(options) { }
 
-        public DbSet<Bookmark> Bookmarks { get; set; }
-
+        public DbSet<User> Users { get; set; }
+        public DbSet<Article> Articles { get; set; }
         public DbSet<Comment> Comments { get; set; }
-
+        public DbSet<Bookmark> Bookmarks { get; set; }
     }
 }
 

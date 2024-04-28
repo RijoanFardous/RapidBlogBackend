@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\rijoa\\source\\repos\\RapidBlogBackend\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5EFCF39-C71B-4BF9-A60F-ACD4A7B98558}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\rijoa\\source\\repos\\rapidblogbackend\\dataaccesslayer\\ef\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5EFCF39-C71B-4BF9-A60F-ACD4A7B98558}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\ef\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5EFCF39-C71B-4BF9-A60F-ACD4A7B98558}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\rijoa\\source\\repos\\rapidblogbackend\\dataaccesslayer\\ef\\entities\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5EFCF39-C71B-4BF9-A60F-ACD4A7B98558}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\ef\\entities\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5EFCF39-C71B-4BF9-A60F-ACD4A7B98558}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\rijoa\\source\\repos\\rapidblogbackend\\dataaccesslayer\\ef\\rapidblogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5EFCF39-C71B-4BF9-A60F-ACD4A7B98558}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\ef\\rapidblogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -9,11 +22,50 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RapidBlogContext.cs",
+              "DocumentMoniker": "C:\\Users\\rijoa\\source\\repos\\RapidBlogBackend\\DataAccessLayer\\EF\\RapidBlogContext.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\EF\\RapidBlogContext.cs",
+              "ToolTip": "C:\\Users\\rijoa\\source\\repos\\RapidBlogBackend\\DataAccessLayer\\EF\\RapidBlogContext.cs",
+              "RelativeToolTip": "DataAccessLayer\\EF\\RapidBlogContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T17:49:35.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\Users\\rijoa\\source\\repos\\RapidBlogBackend\\DataAccessLayer\\EF\\Entities\\Article.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\EF\\Entities\\Article.cs",
+              "ToolTip": "C:\\Users\\rijoa\\source\\repos\\RapidBlogBackend\\DataAccessLayer\\EF\\Entities\\Article.cs",
+              "RelativeToolTip": "DataAccessLayer\\EF\\Entities\\Article.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T17:45:57.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\rijoa\\source\\repos\\RapidBlogBackend\\DataAccessLayer\\EF\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\EF\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\rijoa\\source\\repos\\RapidBlogBackend\\DataAccessLayer\\EF\\Entities\\User.cs",
+              "RelativeToolTip": "DataAccessLayer\\EF\\Entities\\User.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T17:41:03.63Z",
+              "EditorCaption": ""
             }
           ]
         }

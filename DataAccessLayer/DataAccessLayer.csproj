@@ -18,8 +18,4 @@
     <None Remove="EF\" />
     <None Remove="EF\Entities\" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="EF\" />
-    <Folder Include="EF\Entities\" />
-  </ItemGroup>
 </Project>
