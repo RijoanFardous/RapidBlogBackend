@@ -1,22 +1,31 @@
 ﻿<Properties StartupConfiguration="{FEED6200-B2F1-43DA-91C0-D3BE6814377A}|https">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="DataAccessLayer/EF/RapidBlogContextFactory.cs">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="RapidBlogApi/appsettings.json">
     <Files>
-      <File FileName="DataAccessLayer/EF/Entities/Comment.cs" Line="21" Column="27" />
-      <File FileName="DataAccessLayer/EF/Entities/Bookmark.cs" Line="14" Column="1" />
-      <File FileName="DataAccessLayer/EF/RapidBlogContext.cs" Line="15" Column="2" />
-      <File FileName="RapidBlogApi/Program.cs" Line="20" Column="40" />
-      <File FileName="RapidBlogApi/appsettings.json" Line="11" Column="73" />
-      <File FileName="DataAccessLayer/EF/RapidBlogContextFactory.cs" Line="14" Column="65" />
+      <File FileName="DataAccessLayer/EF/Entities/Comment.cs" />
+      <File FileName="DataAccessLayer/EF/Entities/Bookmark.cs" />
+      <File FileName="DataAccessLayer/EF/RapidBlogContext.cs" />
+      <File FileName="RapidBlogApi/Program.cs" />
+      <File FileName="RapidBlogApi/appsettings.json" Line="11" Column="54" />
+      <File FileName="DataAccessLayer/EF/RapidBlogContextFactory.cs" Line="10" Column="63" />
+      <File FileName="DataAccessLayer/EF/Entities/Like.cs" />
+      <File FileName="DataAccessLayer/EF/Entities/Follower.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="RapidBlogBackend">
-            <Node name="DataAccessLayer" expanded="True">
-              <Node name="Dependencies" expanded="True" />
-              <Node name="EF" expanded="True" />
-              <Node name="Migrations" expanded="True" />
+          <Node name="RapidBlogBackend" expanded="True">
+            <Node name="DataAccessLayer">
+              <Node name="EF" expanded="True">
+                <Node name="Entities" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="RapidBlogApi">
+              <Node name="appsettings.json" selected="True" />
             </Node>
           </Node>
         </State>
@@ -25,8 +34,4 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.RapidBlogApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

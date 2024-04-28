@@ -1,35 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rijoa\\source\\repos\\RapidBlogBackend\\RapidBlogApi\\RapidBlogApi.csproj": {}
+    "/Users/tanvir/Desktop/RapidBlogBackend/RapidBlogApi/RapidBlogApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rijoa\\source\\repos\\RapidBlogBackend\\BusinessLayer\\BusinessLayer.csproj": {
+    "/Users/tanvir/Desktop/RapidBlogBackend/BusinessLayer/BusinessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rijoa\\source\\repos\\RapidBlogBackend\\BusinessLayer\\BusinessLayer.csproj",
+        "projectUniqueName": "/Users/tanvir/Desktop/RapidBlogBackend/BusinessLayer/BusinessLayer.csproj",
         "projectName": "BusinessLayer",
-        "projectPath": "C:\\Users\\rijoa\\source\\repos\\RapidBlogBackend\\BusinessLayer\\BusinessLayer.csproj",
-        "packagesPath": "C:\\Users\\rijoa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rijoa\\source\\repos\\RapidBlogBackend\\BusinessLayer\\obj\\",
+        "projectPath": "/Users/tanvir/Desktop/RapidBlogBackend/BusinessLayer/BusinessLayer.csproj",
+        "packagesPath": "/Users/tanvir/.nuget/packages/",
+        "outputPath": "/Users/tanvir/Desktop/RapidBlogBackend/BusinessLayer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rijoa\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/tanvir/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\rijoa\\source\\repos\\RapidBlogBackend\\DataAccessLayer\\DataAccessLayer.csproj": {
-                "projectPath": "C:\\Users\\rijoa\\source\\repos\\RapidBlogBackend\\DataAccessLayer\\DataAccessLayer.csproj"
+              "/Users/tanvir/Desktop/RapidBlogBackend/DataAccessLayer/DataAccessLayer.csproj": {
+                "projectPath": "/Users/tanvir/Desktop/RapidBlogBackend/DataAccessLayer/DataAccessLayer.csproj"
               }
             }
           }
@@ -38,11 +36,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -64,28 +57,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.315/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\rijoa\\source\\repos\\RapidBlogBackend\\DataAccessLayer\\DataAccessLayer.csproj": {
+    "/Users/tanvir/Desktop/RapidBlogBackend/DataAccessLayer/DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rijoa\\source\\repos\\RapidBlogBackend\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectUniqueName": "/Users/tanvir/Desktop/RapidBlogBackend/DataAccessLayer/DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
-        "projectPath": "C:\\Users\\rijoa\\source\\repos\\RapidBlogBackend\\DataAccessLayer\\DataAccessLayer.csproj",
-        "packagesPath": "C:\\Users\\rijoa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rijoa\\source\\repos\\RapidBlogBackend\\DataAccessLayer\\obj\\",
+        "projectPath": "/Users/tanvir/Desktop/RapidBlogBackend/DataAccessLayer/DataAccessLayer.csproj",
+        "packagesPath": "/Users/tanvir/.nuget/packages/",
+        "outputPath": "/Users/tanvir/Desktop/RapidBlogBackend/DataAccessLayer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rijoa\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/tanvir/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -98,11 +89,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -140,36 +126,35 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.315/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\rijoa\\source\\repos\\RapidBlogBackend\\RapidBlogApi\\RapidBlogApi.csproj": {
+    "/Users/tanvir/Desktop/RapidBlogBackend/RapidBlogApi/RapidBlogApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rijoa\\source\\repos\\RapidBlogBackend\\RapidBlogApi\\RapidBlogApi.csproj",
+        "projectUniqueName": "/Users/tanvir/Desktop/RapidBlogBackend/RapidBlogApi/RapidBlogApi.csproj",
         "projectName": "RapidBlogApi",
-        "projectPath": "C:\\Users\\rijoa\\source\\repos\\RapidBlogBackend\\RapidBlogApi\\RapidBlogApi.csproj",
-        "packagesPath": "C:\\Users\\rijoa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rijoa\\source\\repos\\RapidBlogBackend\\RapidBlogApi\\obj\\",
+        "projectPath": "/Users/tanvir/Desktop/RapidBlogBackend/RapidBlogApi/RapidBlogApi.csproj",
+        "packagesPath": "/Users/tanvir/.nuget/packages/",
+        "outputPath": "/Users/tanvir/Desktop/RapidBlogBackend/RapidBlogApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rijoa\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/tanvir/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "/usr/local/share/dotnet/sdk/7.0.315/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\rijoa\\source\\repos\\RapidBlogBackend\\BusinessLayer\\BusinessLayer.csproj": {
-                "projectPath": "C:\\Users\\rijoa\\source\\repos\\RapidBlogBackend\\BusinessLayer\\BusinessLayer.csproj"
+              "/Users/tanvir/Desktop/RapidBlogBackend/BusinessLayer/BusinessLayer.csproj": {
+                "projectPath": "/Users/tanvir/Desktop/RapidBlogBackend/BusinessLayer/BusinessLayer.csproj"
               }
             }
           }
@@ -178,11 +163,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -231,7 +211,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.315/RuntimeIdentifierGraph.json"
         }
       }
     }

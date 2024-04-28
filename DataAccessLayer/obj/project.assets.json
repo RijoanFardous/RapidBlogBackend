@@ -1024,26 +1024,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\rijoa\\.nuget\\packages\\": {}
+    "/Users/tanvir/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rijoa\\source\\repos\\RapidBlogBackend\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectUniqueName": "/Users/tanvir/Desktop/RapidBlogBackend/DataAccessLayer/DataAccessLayer.csproj",
       "projectName": "DataAccessLayer",
-      "projectPath": "C:\\Users\\rijoa\\source\\repos\\RapidBlogBackend\\DataAccessLayer\\DataAccessLayer.csproj",
-      "packagesPath": "C:\\Users\\rijoa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rijoa\\source\\repos\\RapidBlogBackend\\DataAccessLayer\\obj\\",
+      "projectPath": "/Users/tanvir/Desktop/RapidBlogBackend/DataAccessLayer/DataAccessLayer.csproj",
+      "packagesPath": "/Users/tanvir/.nuget/packages/",
+      "outputPath": "/Users/tanvir/Desktop/RapidBlogBackend/DataAccessLayer/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\rijoa\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/tanvir/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1056,11 +1054,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -1098,7 +1091,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.315/RuntimeIdentifierGraph.json"
       }
     }
   }
